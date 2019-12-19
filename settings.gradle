@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='tamilaruvi_book_opener'
